@@ -1,0 +1,9 @@
+.BookingCard {
+    display: inline-block;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+.Input {
+    margin: 10px
+}
